@@ -26,6 +26,8 @@ int main()
             cout << "All I do is sit here and wait, wasting your fucking time." << endl;
             cout << "Fuck off meatbag";
         }
+        else
+        cout << "Knew it, fucking fleshies man.";
     }
     else
     cout << "Get fucked human.";
