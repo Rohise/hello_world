@@ -4,7 +4,7 @@ hello_world
 Following the tutorial, new to this whole thing
 
 Just going along, probably will use this so that I can stop abusing the [code][/code] feature on /g/.
-Rest wil remain blank until I actually do something.
+Rest will remain blank until I actually do something.
 
 Tutorial wants me to say something about myself. Not sure what that means. I'm new to the world of programming, and barely
 started using Antergos as my OS instead of windows. I did manage to make a fairly broken Rock Paper Scissors game in C++ as
