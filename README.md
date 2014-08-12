@@ -12,3 +12,5 @@ well as a poorly written password storage thing in C#, and by poorly written I m
 can't into reading from and writing to files. 
 
 For folks who just hop around repos, sorry for dissapointing you all.
+
+Soditall, gonna actually add a hello world "program". Warning: I like my synthetics to be foul-mouthed.
