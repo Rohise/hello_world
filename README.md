@@ -13,4 +13,5 @@ can't into reading from and writing to files.
 
 For folks who just hop around repos, sorry for dissapointing you all.
 
-Soditall, gonna actually add a hello world "program". Warning: I like my synthetics to be foul-mouthed.
+Soditall, gonna actually add a hello world "program" that includes what I can remember from friends teaching me. Warning: I
+like my synthetics to be foul-mouthed.
